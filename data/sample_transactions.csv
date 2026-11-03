@@ -1,0 +1,330 @@
+date,description,category,amount
+2025-01-01,Online store payout,Product Sales,10610.78
+2025-01-01,Marketplace payout,Product Sales,15717.91
+2025-01-02,Conference travel,Travel,981.49
+2025-01-03,Marketplace payout,Product Sales,9097.66
+2025-01-03,Packaging order,Materials,6236.74
+2025-01-03,Payroll run,Salaries,12302.02
+2025-01-03,Design agency,Marketing,2406.39
+2025-01-04,Packaging order,Materials,5472.02
+2025-01-07,Online store payout,Product Sales,14529.18
+2025-01-08,Payroll run,Salaries,18985.73
+2025-01-09,Accounting software,Software,1025.51
+2025-01-13,Carrier invoice,Shipping,2567.04
+2025-01-13,Conference travel,Travel,705.16
+2025-01-14,Online store payout,Product Sales,11006.38
+2025-01-15,Office rent,Rent,5741.88
+2025-01-17,Marketplace payout,Product Sales,14072.86
+2025-01-18,Freight charge,Shipping,2305.11
+2025-01-19,Implementation project,Service Revenue,7694.29
+2025-01-19,Legal fees,Professional Fees,1706.3
+2025-01-20,Packaging order,Materials,6221.61
+2025-01-21,Online ads,Marketing,2447.85
+2025-01-22,Design agency,Marketing,1993.84
+2025-01-22,Cloud services,Software,1183.5
+2025-01-25,Support contract,Service Revenue,5875.31
+2025-01-26,Support contract,Service Revenue,7249.79
+2025-01-27,Freight charge,Shipping,2896.49
+2025-01-28,Packaging order,Materials,8790.19
+2025-02-03,Design agency,Marketing,2289.7
+2025-02-04,Packaging order,Materials,7911.24
+2025-02-04,Office rent,Rent,5565.3
+2025-02-07,Client visit,Travel,864.96
+2025-02-08,Online store payout,Product Sales,9052.06
+2025-02-09,Carrier invoice,Shipping,2036.53
+2025-02-12,Payroll run,Salaries,17774.33
+2025-02-12,Legal fees,Professional Fees,1738.67
+2025-02-13,Wholesale order,Product Sales,9074.52
+2025-02-13,Implementation project,Service Revenue,8410.31
+2025-02-14,Marketplace payout,Product Sales,12539.17
+2025-02-16,Online ads,Marketing,1902.04
+2025-02-17,Wholesale order,Product Sales,13246.93
+2025-02-17,Carrier invoice,Shipping,2665.05
+2025-02-18,Wholesale order,Product Sales,11543.94
+2025-02-18,Payroll run,Salaries,14496.68
+2025-02-18,Accounting software,Software,1004.89
+2025-02-19,Online ads,Marketing,3103.81
+2025-02-20,Support contract,Service Revenue,5983.02
+2025-02-22,Supplier invoice,Materials,6131.84
+2025-02-22,Packaging order,Materials,5319.23
+2025-02-22,Cloud services,Software,1321.3
+2025-02-23,Conference travel,Travel,674.38
+2025-02-24,Marketplace payout,Product Sales,14214.95
+2025-02-25,Packaging order,Materials,6451.33
+2025-02-26,Implementation project,Service Revenue,5689.88
+2025-02-28,Freight charge,Shipping,2567.07
+2025-03-01,Online store payout,Product Sales,15109.52
+2025-03-02,Online store payout,Product Sales,11491.61
+2025-03-02,Packaging order,Materials,7078.05
+2025-03-02,Payroll run,Salaries,19885.43
+2025-03-02,Online ads,Marketing,2652.1
+2025-03-03,Online store payout,Product Sales,11090.17
+2025-03-03,Marketplace payout,Product Sales,16388.33
+2025-03-05,Freight charge,Shipping,2461.33
+2025-03-05,Accounting software,Software,986.48
+2025-03-06,Freight charge,Shipping,2620.13
+2025-03-08,Implementation project,Service Revenue,6895.48
+2025-03-13,Online ads,Marketing,2215.68
+2025-03-13,Trade show,Marketing,2516.31
+2025-03-15,Carrier invoice,Shipping,3285.07
+2025-03-17,Accounting fees,Professional Fees,1836.91
+2025-03-18,Client visit,Travel,937.18
+2025-03-19,Implementation project,Service Revenue,9166.21
+2025-03-22,Supplier invoice,Materials,7111.31
+2025-03-23,Marketplace payout,Product Sales,13208.59
+2025-03-23,Cloud services,Software,1326.12
+2025-03-24,Supplier invoice,Materials,5624.17
+2025-03-24,Packaging order,Materials,7271.42
+2025-03-24,Conference travel,Travel,766.22
+2025-03-26,Implementation project,Service Revenue,6486.39
+2025-03-28,Wholesale order,Product Sales,16066.01
+2025-03-28,Payroll run,Salaries,12507.66
+2025-03-28,Office rent,Rent,5809.54
+2025-04-02,Marketplace payout,Product Sales,9824.52
+2025-04-03,Wholesale order,Product Sales,9820.07
+2025-04-03,Design agency,Marketing,2239.02
+2025-04-03,Client visit,Travel,1042.21
+2025-04-04,Supplier invoice,Materials,9433.45
+2025-04-04,Payroll run,Salaries,20112.18
+2025-04-05,Implementation project,Service Revenue,9084.34
+2025-04-05,Packaging order,Materials,7760.96
+2025-04-05,Legal fees,Professional Fees,2080.3
+2025-04-09,Implementation project,Service Revenue,7061.28
+2025-04-09,Payroll run,Salaries,12493.95
+2025-04-09,Accounting software,Software,1115.17
+2025-04-14,Trade show,Marketing,2590.44
+2025-04-15,Implementation project,Service Revenue,7325.53
+2025-04-17,Packaging order,Materials,8021.95
+2025-04-18,Supplier invoice,Materials,5276.62
+2025-04-18,Client visit,Travel,768.96
+2025-04-19,Online store payout,Product Sales,13318.72
+2025-04-19,Marketplace payout,Product Sales,16050.98
+2025-04-19,Marketplace payout,Product Sales,12491.09
+2025-04-20,Carrier invoice,Shipping,2725.61
+2025-04-22,Marketplace payout,Product Sales,16134.31
+2025-04-22,Freight charge,Shipping,2349.85
+2025-04-23,Office rent,Rent,5349.75
+2025-04-24,Cloud services,Software,964.47
+2025-04-27,Freight charge,Shipping,3630.02
+2025-04-28,Online ads,Marketing,2818.48
+2025-05-01,Support contract,Service Revenue,8963.35
+2025-05-01,Carrier invoice,Shipping,2588.56
+2025-05-02,Cloud services,Software,1436.39
+2025-05-04,Wholesale order,Product Sales,15188.55
+2025-05-04,Packaging order,Materials,8499.29
+2025-05-05,Online store payout,Product Sales,10123.08
+2025-05-07,Cloud services,Software,891.45
+2025-05-08,Marketplace payout,Product Sales,10845.01
+2025-05-08,Supplier invoice,Materials,8178.32
+2025-05-08,Carrier invoice,Shipping,2861.36
+2025-05-09,Office rent,Rent,5789.9
+2025-05-11,Legal fees,Professional Fees,1953.7
+2025-05-12,Payroll run,Salaries,11744.25
+2025-05-12,Design agency,Marketing,3464.5
+2025-05-12,Conference travel,Travel,782.72
+2025-05-13,Freight charge,Shipping,3450.59
+2025-05-14,Design agency,Marketing,2840.98
+2025-05-20,Marketplace payout,Product Sales,15188.13
+2025-05-22,Payroll run,Salaries,18432.16
+2025-05-24,Implementation project,Service Revenue,8271.36
+2025-05-24,Client visit,Travel,960.42
+2025-05-25,Marketplace payout,Product Sales,14432.23
+2025-05-26,Implementation project,Service Revenue,8566.86
+2025-05-26,Trade show,Marketing,1941.41
+2025-05-28,Wholesale order,Product Sales,14907.09
+2025-05-28,Supplier invoice,Materials,8276.15
+2025-05-28,Packaging order,Materials,5999.57
+2025-06-03,Supplier invoice,Materials,8375.67
+2025-06-05,Payroll run,Salaries,15826.14
+2025-06-06,Marketplace payout,Product Sales,12942.83
+2025-06-07,Wholesale order,Product Sales,17918.16
+2025-06-08,Supplier invoice,Materials,7190.19
+2025-06-09,Client visit,Travel,1075.17
+2025-06-10,Packaging order,Materials,7721.46
+2025-06-15,Implementation project,Service Revenue,7630.07
+2025-06-15,Support contract,Service Revenue,7143.94
+2025-06-15,Freight charge,Shipping,3534.99
+2025-06-18,Online store payout,Product Sales,11195.35
+2025-06-18,Design agency,Marketing,2553.88
+2025-06-19,Wholesale order,Product Sales,16159.57
+2025-06-21,Carrier invoice,Shipping,2922.44
+2025-06-21,Accounting fees,Professional Fees,2187.62
+2025-06-22,Wholesale order,Product Sales,14511.55
+2025-06-22,Marketplace payout,Product Sales,15896.74
+2025-06-22,Packaging order,Materials,7493.9
+2025-06-22,Design agency,Marketing,3170.47
+2025-06-25,Carrier invoice,Shipping,1993.64
+2025-06-25,Payroll run,Salaries,15986.11
+2025-06-26,Implementation project,Service Revenue,10379.26
+2025-06-26,Office rent,Rent,5683.76
+2025-06-26,Trade show,Marketing,2227.76
+2025-06-27,Cloud services,Software,1171.15
+2025-06-27,Cloud services,Software,980.62
+2025-06-27,Conference travel,Travel,923.78
+2025-07-02,Trade show,Marketing,2652.77
+2025-07-02,Accounting software,Software,782.23
+2025-07-03,Wholesale order,Product Sales,13461.39
+2025-07-05,Carrier invoice,Shipping,2779.05
+2025-07-06,Payroll run,Salaries,12947.71
+2025-07-08,Wholesale order,Product Sales,11267.67
+2025-07-08,Accounting software,Software,1344.97
+2025-07-09,Packaging order,Materials,8698.03
+2025-07-09,Payroll run,Salaries,16504.57
+2025-07-11,Office rent,Rent,5386.05
+2025-07-12,Accounting fees,Professional Fees,1951.78
+2025-07-13,Carrier invoice,Shipping,2674.44
+2025-07-14,Wholesale order,Product Sales,15457.84
+2025-07-16,Support contract,Service Revenue,9584.88
+2025-07-16,Supplier invoice,Materials,6578.13
+2025-07-16,Supplier invoice,Materials,8461.76
+2025-07-16,Online ads,Marketing,2806.9
+2025-07-16,Client visit,Travel,1027.94
+2025-07-18,Wholesale order,Product Sales,11819.13
+2025-07-18,Supplier invoice,Materials,6192.0
+2025-07-19,Support contract,Service Revenue,6355.21
+2025-07-19,Client visit,Travel,807.87
+2025-07-23,Online store payout,Product Sales,13153.64
+2025-07-23,Online store payout,Product Sales,13026.73
+2025-07-24,Design agency,Marketing,2104.94
+2025-07-27,Freight charge,Shipping,2596.21
+2025-07-28,Implementation project,Service Revenue,7342.19
+2025-08-03,Conference travel,Travel,844.27
+2025-08-07,Online store payout,Product Sales,10088.34
+2025-08-08,Payroll run,Salaries,18144.82
+2025-08-08,Cloud services,Software,1225.92
+2025-08-09,Payroll run,Salaries,12194.15
+2025-08-09,Trade show,Marketing,2431.36
+2025-08-09,Design agency,Marketing,2696.29
+2025-08-10,Marketplace payout,Product Sales,16154.31
+2025-08-10,Legal fees,Professional Fees,1855.86
+2025-08-11,Office rent,Rent,5546.1
+2025-08-12,Implementation project,Service Revenue,7973.97
+2025-08-13,Marketplace payout,Product Sales,14744.35
+2025-08-14,Packaging order,Materials,8852.76
+2025-08-15,Freight charge,Shipping,3091.44
+2025-08-16,Supplier invoice,Materials,6029.44
+2025-08-16,Accounting software,Software,988.81
+2025-08-19,Marketplace payout,Product Sales,11205.08
+2025-08-21,Packaging order,Materials,5754.7
+2025-08-22,Wholesale order,Product Sales,14293.67
+2025-08-23,Supplier invoice,Materials,7742.71
+2025-08-23,Trade show,Marketing,2479.95
+2025-08-26,Support contract,Service Revenue,8029.69
+2025-08-26,Support contract,Service Revenue,6325.36
+2025-08-26,Freight charge,Shipping,2755.52
+2025-08-26,Client visit,Travel,923.26
+2025-08-27,Marketplace payout,Product Sales,13234.57
+2025-08-27,Freight charge,Shipping,2083.17
+2025-09-02,Packaging order,Materials,7447.95
+2025-09-02,Freight charge,Shipping,3110.63
+2025-09-02,Payroll run,Salaries,12514.54
+2025-09-04,Marketplace payout,Product Sales,13525.1
+2025-09-04,Marketplace payout,Product Sales,12720.54
+2025-09-04,Support contract,Service Revenue,8020.39
+2025-09-04,Supplier invoice,Materials,6146.14
+2025-09-04,Carrier invoice,Shipping,2568.7
+2025-09-04,Accounting software,Software,811.47
+2025-09-05,Payroll run,Salaries,18116.09
+2025-09-06,Online store payout,Product Sales,12211.92
+2025-09-06,Client visit,Travel,963.94
+2025-09-07,Wholesale order,Product Sales,16247.08
+2025-09-09,Online store payout,Product Sales,14420.6
+2025-09-10,Support contract,Service Revenue,9089.16
+2025-09-10,Design agency,Marketing,2307.9
+2025-09-14,Trade show,Marketing,2800.01
+2025-09-15,Trade show,Marketing,3244.51
+2025-09-16,Legal fees,Professional Fees,2057.17
+2025-09-17,Implementation project,Service Revenue,7000.96
+2025-09-18,Marketplace payout,Product Sales,15881.13
+2025-09-18,Office rent,Rent,5226.22
+2025-09-18,Client visit,Travel,855.19
+2025-09-21,Packaging order,Materials,6557.18
+2025-09-21,Accounting software,Software,1406.65
+2025-09-23,Supplier invoice,Materials,9505.23
+2025-09-28,Freight charge,Shipping,3055.63
+2025-10-01,Supplier invoice,Materials,5983.74
+2025-10-01,Freight charge,Shipping,2848.43
+2025-10-02,Packaging order,Materials,10120.82
+2025-10-04,Cloud services,Software,974.99
+2025-10-06,Payroll run,Salaries,14397.63
+2025-10-07,Conference travel,Travel,1029.34
+2025-10-07,Legal fees,Professional Fees,2192.51
+2025-10-10,Implementation project,Service Revenue,11875.29
+2025-10-14,Online store payout,Product Sales,11497.82
+2025-10-14,Office rent,Rent,5809.58
+2025-10-15,Support contract,Service Revenue,7375.98
+2025-10-15,Implementation project,Service Revenue,7939.05
+2025-10-16,Trade show,Marketing,2550.55
+2025-10-18,Online store payout,Product Sales,13004.83
+2025-10-19,Marketplace payout,Product Sales,13462.71
+2025-10-19,Carrier invoice,Shipping,3136.56
+2025-10-20,Packaging order,Materials,7967.04
+2025-10-20,Conference travel,Travel,951.44
+2025-10-21,Online store payout,Product Sales,13293.99
+2025-10-21,Payroll run,Salaries,16492.63
+2025-10-22,Trade show,Marketing,2663.36
+2025-10-24,Packaging order,Materials,7999.08
+2025-10-25,Carrier invoice,Shipping,2713.55
+2025-10-26,Marketplace payout,Product Sales,13512.74
+2025-10-26,Online store payout,Product Sales,18821.17
+2025-10-27,Design agency,Marketing,3166.58
+2025-10-28,Accounting software,Software,1102.69
+2025-11-03,Online store payout,Product Sales,19178.69
+2025-11-05,Accounting fees,Professional Fees,2314.72
+2025-11-06,Wholesale order,Product Sales,14383.33
+2025-11-08,Marketplace payout,Product Sales,18771.12
+2025-11-09,Packaging order,Materials,8220.84
+2025-11-11,Packaging order,Materials,11075.3
+2025-11-13,Office rent,Rent,5817.31
+2025-11-13,Design agency,Marketing,3055.15
+2025-11-14,Implementation project,Service Revenue,9405.46
+2025-11-15,Freight charge,Shipping,3799.55
+2025-11-15,Payroll run,Salaries,15249.59
+2025-11-15,Client visit,Travel,1071.72
+2025-11-17,Implementation project,Service Revenue,11290.84
+2025-11-17,Supplier invoice,Materials,7479.2
+2025-11-17,Cloud services,Software,1349.54
+2025-11-18,Online store payout,Product Sales,16714.85
+2025-11-18,Wholesale order,Product Sales,11544.9
+2025-11-22,Freight charge,Shipping,3140.66
+2025-11-23,Implementation project,Service Revenue,7253.79
+2025-11-24,Client visit,Travel,1128.84
+2025-11-26,Trade show,Marketing,3245.67
+2025-11-26,Design agency,Marketing,3373.66
+2025-11-27,Online store payout,Product Sales,15913.77
+2025-11-28,Supplier invoice,Materials,9110.03
+2025-11-28,Carrier invoice,Shipping,3174.71
+2025-11-28,Payroll run,Salaries,15174.27
+2025-11-28,Accounting software,Software,977.39
+2025-12-02,Marketplace payout,Product Sales,18159.52
+2025-12-05,Supplier invoice,Materials,6144.15
+2025-12-06,Office rent,Rent,5764.8
+2025-12-08,Cloud services,Software,1027.67
+2025-12-09,Trade show,Marketing,3404.38
+2025-12-09,Client visit,Travel,916.48
+2025-12-10,Packaging order,Materials,9427.42
+2025-12-12,Packaging order,Materials,10488.5
+2025-12-13,Wholesale order,Product Sales,13538.44
+2025-12-14,Support contract,Service Revenue,9816.39
+2025-12-14,Design agency,Marketing,2934.73
+2025-12-16,Carrier invoice,Shipping,2876.81
+2025-12-17,Packaging order,Materials,9944.94
+2025-12-19,Cloud services,Software,1092.93
+2025-12-20,Carrier invoice,Shipping,3087.01
+2025-12-21,Marketplace payout,Product Sales,16723.7
+2025-12-22,Payroll run,Salaries,15781.67
+2025-12-24,Support contract,Service Revenue,8453.83
+2025-12-24,Accounting fees,Professional Fees,2519.78
+2025-12-25,Wholesale order,Product Sales,16338.13
+2025-12-25,Support contract,Service Revenue,10176.1
+2025-12-26,Payroll run,Salaries,14222.07
+2025-12-27,Conference travel,Travel,1353.72
+2025-12-28,Marketplace payout,Product Sales,19210.61
+2025-12-28,Marketplace payout,Product Sales,18154.34
+2025-12-28,Freight charge,Shipping,4524.76
+2025-12-28,Trade show,Marketing,3504.07
+2025-13-05,Online ads,Marketing,410.0
+2025-06-14,Carrier invoice,Shipping,n/a
+2025-08-02,Office snacks,Refreshments,86.5
+2025-09-19,,Travel,220.0
+2025-01-21,Online ads,Marketing,2447.85
